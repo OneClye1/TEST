@@ -1,6 +1,6 @@
 {
-  "Found Brainrot": "`Orcalero Orcala`",
-  "Valor": "`$700K/s`",
+  "Found Brainrot": "`Girafa Celestre`",
+  "Valor": "`$120K/s`",
   "Mutacion": "`Normal`",
-  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"e4cdc163-1032-46be-a53e-a544745a76b1\", game.Players.LocalPlayer)"
+  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"b96e40c5-579a-402e-8642-4ee859fe225e\", game.Players.LocalPlayer)"
 }
