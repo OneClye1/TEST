@@ -1,6 +1,6 @@
 {
-  "Found Brainrot": "`tutorial_mannn`",
-  "Valor": "`$50M/s`",
+  "Found Brainrot": "`Graipuss Medussi`",
+  "Valor": "`$1.2M/s`",
   "Mutacion": "`Normal`",
-  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(140460175085991, \"3bbadc49-0a1f-4735-b0fc-564a5a1c9d20\", game.Players.LocalPlayer)"
+  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"324b34e0-b625-4164-9995-10b00c5e5891\", game.Players.LocalPlayer)"
 }
