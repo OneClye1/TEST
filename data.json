@@ -1,6 +1,6 @@
 {
-  "Found Brainrot": "`Tralalero Tralala`",
-  "Valor": "`$250K/s`",
+  "Found Brainrot": "`Los Tralaleritos`",
+  "Valor": "`$500K/s`",
   "Mutacion": "`Normal`",
-  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"c890b1f5-fc32-4e74-b825-84ee8dc95a7c\", game.Players.LocalPlayer)"
+  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"e4683659-d1db-443c-9ae0-3c284a914f78\", game.Players.LocalPlayer)"
 }
