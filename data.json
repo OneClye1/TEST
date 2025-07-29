@@ -1,6 +1,6 @@
 {
-  "Found Brainrot": "`La Vacca Saturno Saturnita`",
-  "Valor": "`$500K/s`",
+  "Found Brainrot": "`Girafa Celestre`",
+  "Valor": "`$120K/s`",
   "Mutacion": "`Normal`",
-  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"ee4e9343-7da3-4748-b504-ce8b674beeef\", game.Players.LocalPlayer)"
+  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"326a82bc-1347-40ed-81f1-e72c89b64384\", game.Players.LocalPlayer)"
 }
