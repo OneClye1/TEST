@@ -1,6 +1,6 @@
 {
-  "Found Brainrot": "`Las Tralaleritas`",
-  "Valor": "`$975K/s`",
+  "Found Brainrot": "`Statutino Libertino`",
+  "Valor": "`$675K/s`",
   "Mutacion": "`Normal`",
-  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"aa348896-4ed9-4aad-bf49-a30762cc5801\", game.Players.LocalPlayer)"
+  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"21a39351-66c6-41bb-9b35-3eb81b79ed06\", game.Players.LocalPlayer)"
 }
