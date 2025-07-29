@@ -1,6 +1,6 @@
 {
-  "Found Brainrot": "`Orcalero Orcala`",
-  "Valor": "`$600K/s`",
+  "Found Brainrot": "`Tigroligre Frutonni`",
+  "Valor": "`$360K/s`",
   "Mutacion": "`Normal`",
-  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"a855ae9d-2f79-4cd2-9189-95e0ab58a746\", game.Players.LocalPlayer)"
+  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"7b2de0de-2641-4830-8c5e-8377dc4ffe22\", game.Players.LocalPlayer)"
 }
