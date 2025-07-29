@@ -1,6 +1,6 @@
 {
-  "Found Brainrot": "`Los Crocodillitos`",
-  "Valor": "`$220K/s`",
+  "Found Brainrot": "`Orcalero Orcala`",
+  "Valor": "`$600K/s`",
   "Mutacion": "`Normal`",
-  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"a379ea2b-103d-45fb-bf5f-c1c7feff1352\", game.Players.LocalPlayer)"
+  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"c361d8b3-544e-4b1d-9f58-f54ed081f276\", game.Players.LocalPlayer)"
 }
