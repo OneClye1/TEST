@@ -1,6 +1,6 @@
 {
-  "Found Brainrot": "`Statutino Libertino`",
-  "Valor": "`$675K/s`",
+  "Found Brainrot": "`Orcalero Orcala`",
+  "Valor": "`$1.1M/s`",
   "Mutacion": "`Normal`",
-  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"21a39351-66c6-41bb-9b35-3eb81b79ed06\", game.Players.LocalPlayer)"
+  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"4d163b40-25a3-4955-a94b-2655e6541d4d\", game.Players.LocalPlayer)"
 }
