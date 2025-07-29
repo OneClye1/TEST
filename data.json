@@ -1,6 +1,6 @@
 {
-  "Found Brainrot": "`Girafa Celestre`",
-  "Valor": "`$120K/s`",
+  "Found Brainrot": "`Tralalero Tralala`",
+  "Valor": "`$200K/s`",
   "Mutacion": "`Normal`",
-  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"b96e40c5-579a-402e-8642-4ee859fe225e\", game.Players.LocalPlayer)"
+  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"fb990fa1-6869-48df-8122-21a3f63fa828\", game.Players.LocalPlayer)"
 }
