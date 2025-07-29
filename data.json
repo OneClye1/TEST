@@ -1,6 +1,6 @@
 {
-  "Found Brainrot": "`La Grande Combinasion`",
-  "Valor": "`$12.5M/s`",
+  "Found Brainrot": "`Espresso Signora`",
+  "Valor": "`$420K/s`",
   "Mutacion": "`Normal`",
-  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"534ce7a9-1620-4e07-953d-fcd3d1dc0f00\", game.Players.LocalPlayer)"
+  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"158faec6-5021-400c-b9b2-b4e37450bea5\", game.Players.LocalPlayer)"
 }
