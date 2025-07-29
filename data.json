@@ -1,6 +1,6 @@
 {
-  "Found Brainrot": "`Orcalero Orcala`",
-  "Valor": "`$600K/s`",
+  "Found Brainrot": "`Graipuss Medussi`",
+  "Valor": "`$1.5M/s`",
   "Mutacion": "`Normal`",
-  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"55cb0983-5424-48e2-b687-656d63d21ca6\", game.Players.LocalPlayer)"
+  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"951dcd50-24da-4c06-b172-7d17e33b4678\", game.Players.LocalPlayer)"
 }
