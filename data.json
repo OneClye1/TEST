@@ -1,6 +1,6 @@
 {
-  "Found Brainrot": "`Trenostruzzo Turbo 3000`",
-  "Valor": "`$225K/s`",
-  "Mutacion": "`Normal`",
-  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"55124407-a076-440d-9178-fc66db7d8303\", game.Players.LocalPlayer)"
+  "Found Brainrot": "`Graipuss Medussi`",
+  "Valor": "`$10M/s`",
+  "Mutacion": "`Rainbow`",
+  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"5729ea65-1d28-4bc0-a53b-5985aa7c7709\", game.Players.LocalPlayer)"
 }
