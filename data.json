@@ -1,6 +1,6 @@
 {
-  "Found Brainrot": "`Tralalero Tralala`",
-  "Valor": "`$500K/s`",
-  "Mutacion": "`Rainbow`",
-  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"e48a200c-5250-4e3e-a8e7-80e33d244e08\", game.Players.LocalPlayer)"
+  "Found Brainrot": "`Trenostruzzo Turbo 3000`",
+  "Valor": "`$225K/s`",
+  "Mutacion": "`Normal`",
+  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"fbbcfacd-a051-4768-8a9a-0bd864a37e55\", game.Players.LocalPlayer)"
 }
