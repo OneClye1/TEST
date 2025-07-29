@@ -1,6 +1,6 @@
 {
-  "Found Brainrot": "`Orcalero Orcala`",
-  "Valor": "`$600K/s`",
+  "Found Brainrot": "`Espresso Signora`",
+  "Valor": "`$840K/s`",
   "Mutacion": "`Normal`",
-  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"c361d8b3-544e-4b1d-9f58-f54ed081f276\", game.Players.LocalPlayer)"
+  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"e6a202e6-f279-4a8f-9ce9-e42794ee526d\", game.Players.LocalPlayer)"
 }
