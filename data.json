@@ -1,6 +1,6 @@
 {
-  "Found Brainrot": "`Los Tralaleritos`",
-  "Valor": "`$750K/s`",
+  "Found Brainrot": "`Trenostruzzo Turbo 3000`",
+  "Valor": "`$225K/s`",
   "Mutacion": "`Normal`",
-  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"b1571e39-ebff-4762-93fe-9c9f7cc7d73e\", game.Players.LocalPlayer)"
+  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"5a7ef563-e8fa-4905-b54c-4c2eb0583a88\", game.Players.LocalPlayer)"
 }
