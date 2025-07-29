@@ -1,6 +1,6 @@
 {
-  "Found Brainrot": "`Trenostruzzo Turbo 3000`",
-  "Valor": "`$150K/s`",
+  "Found Brainrot": "`Ballerino Lololo`",
+  "Valor": "`$1M/s`",
   "Mutacion": "`Normal`",
-  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(96342491571673, \"f8502d77-9053-46af-9687-db0e8537ab4c\", game.Players.LocalPlayer)"
+  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"c8e7934a-030b-4926-85e9-c5506286e76a\", game.Players.LocalPlayer)"
 }
