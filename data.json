@@ -1,6 +1,6 @@
 {
-  "Found Brainrot": "(No encontrado)",
-  "Valor": "(No encontrado)",
-  "Mutacion": "(No encontrado)",
-  "Join Server Script": "(No encontrado)"
+  "Found Brainrot": "`Las Vaquitas Saturnitas`",
+  "Valor": "`$3M/s`",
+  "Mutacion": "`Normal`",
+  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"22e66cea-ed5e-4f4f-82b3-3d0144d48713\", game.Players.LocalPlayer)"
 }
