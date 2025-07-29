@@ -1,6 +1,6 @@
 {
-  "Found Brainrot": "`Orcalero Orcala`",
-  "Valor": "`$100K/s`",
+  "Found Brainrot": "`Trenostruzzo Turbo 3000`",
+  "Valor": "`$225K/s`",
   "Mutacion": "`Normal`",
-  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"1da4599d-b537-4173-b5e9-20baaaed65e6\", game.Players.LocalPlayer)"
+  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"c7563328-68a8-41c0-8aca-9c651d8a4d8d\", game.Players.LocalPlayer)"
 }
