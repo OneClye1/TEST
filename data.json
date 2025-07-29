@@ -1,6 +1,6 @@
 {
-  "Found Brainrot": "`Tigroligre Frutonni`",
-  "Valor": "`$240K/s`",
+  "Found Brainrot": "`tutorial_mannn`",
+  "Valor": "`$50M/s`",
   "Mutacion": "`Normal`",
-  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"f773945f-5430-4f8d-a9a2-968c6c170244\", game.Players.LocalPlayer)"
+  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(140460175085991, \"3bbadc49-0a1f-4735-b0fc-564a5a1c9d20\", game.Players.LocalPlayer)"
 }
