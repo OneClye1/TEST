@@ -1,6 +1,6 @@
 {
-  "Found Brainrot": "`Girafa Celestre`",
-  "Valor": "`$120K/s`",
+  "Found Brainrot": "`Tigroligre Frutonni`",
+  "Valor": "`$360K/s`",
   "Mutacion": "`Normal`",
-  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"2aa43719-fd00-4a36-8334-676208189feb\", game.Players.LocalPlayer)"
+  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"f71f17d2-7586-4d58-86fa-4005f2a8a0a9\", game.Players.LocalPlayer)"
 }
