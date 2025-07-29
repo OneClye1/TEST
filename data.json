@@ -1,6 +1,6 @@
 {
-  "Found Brainrot": "`Piccione Macchina`",
-  "Valor": "`$1.3M/s`",
+  "Found Brainrot": "`Trenostruzzo Turbo 3000`",
+  "Valor": "`$225K/s`",
   "Mutacion": "`Normal`",
-  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"d5cb8cb6-6e30-498a-8652-eceff49baf75\", game.Players.LocalPlayer)"
+  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"27b144d1-836d-42d9-8531-10bf2b4aae07\", game.Players.LocalPlayer)"
 }
