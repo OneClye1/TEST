@@ -1,6 +1,6 @@
 {
-  "Found Brainrot": "`Tigroligre Frutonni`",
-  "Valor": "`$240K/s`",
+  "Found Brainrot": "`Piccione Macchina`",
+  "Valor": "`$225K/s`",
   "Mutacion": "`Normal`",
-  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"91908a2a-6bd8-40de-af94-74cfd385a2d5\", game.Players.LocalPlayer)"
+  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"cbc18c96-1bed-4410-9c68-fbaad82c3b30\", game.Players.LocalPlayer)"
 }
