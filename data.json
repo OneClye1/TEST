@@ -1,6 +1,6 @@
 {
-  "Found Brainrot": "`Odin Din Din Dun`",
-  "Valor": "`$300K/s`",
+  "Found Brainrot": "`Los Crocodillitos`",
+  "Valor": "`$275K/s`",
   "Mutacion": "`Normal`",
-  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"a8ec6374-c975-4762-8cf7-2e3837ab45a9\", game.Players.LocalPlayer)"
+  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"117985c9-a522-47c3-ab03-1b3a9341dac5\", game.Players.LocalPlayer)"
 }
