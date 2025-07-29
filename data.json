@@ -1,6 +1,6 @@
 {
-  "Found Brainrot": "`Statutino Libertino`",
-  "Valor": "`$450K/s`",
+  "Found Brainrot": "`Girafa Celestre`",
+  "Valor": "`$230K/s`",
   "Mutacion": "`Normal`",
-  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"292d1cbe-3747-43ee-b002-0b5acb795dbc\", game.Players.LocalPlayer)"
+  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"940d2547-8fc7-42a0-8a15-26d76b6376fd\", game.Players.LocalPlayer)"
 }
