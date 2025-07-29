@@ -1,1 +1,6 @@
-
+{
+  "Found Brainrot": "`Orcalero Orcala`",
+  "Valor": "`$600K/s`",
+  "Mutacion": "`Normal`",
+  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"342f93af-7542-4414-b9b2-591cbee7e88b\", game.Players.LocalPlayer)"
+}
