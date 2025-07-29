@@ -1,6 +1,6 @@
 {
-  "Found Brainrot": "`Piccione Macchina`",
-  "Valor": "`$225K/s`",
+  "Found Brainrot": "`La Vacca Saturno Saturnita`",
+  "Valor": "`$1.5M/s`",
   "Mutacion": "`Normal`",
-  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"cbc18c96-1bed-4410-9c68-fbaad82c3b30\", game.Players.LocalPlayer)"
+  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"614a2cd9-1293-4628-bc13-3cd185f7d17d\", game.Players.LocalPlayer)"
 }
