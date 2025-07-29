@@ -1,6 +1,6 @@
 {
-  "Found Brainrot": "`Graipuss Medussi`",
-  "Valor": "`$10M/s`",
-  "Mutacion": "`Rainbow`",
-  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"5729ea65-1d28-4bc0-a53b-5985aa7c7709\", game.Players.LocalPlayer)"
+  "Found Brainrot": "`Las Vaquitas Saturnitas`",
+  "Valor": "`$937.5K/s`",
+  "Mutacion": "`Normal`",
+  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"db4f4a5e-996f-4689-b984-52164a533298\", game.Players.LocalPlayer)"
 }
