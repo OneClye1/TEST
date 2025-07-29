@@ -1,6 +1,6 @@
 {
-  "Found Brainrot": "`La Grande Combinasion`",
-  "Valor": "`$15M/s`",
+  "Found Brainrot": "`Chimpanzini Spiderini`",
+  "Valor": "`$1.6M/s`",
   "Mutacion": "`Normal`",
-  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"eb521700-26aa-4fbf-b557-915fa5d3678d\", game.Players.LocalPlayer)"
+  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"a7fc5aff-51e4-4552-9bcd-34ac8412e351\", game.Players.LocalPlayer)"
 }
