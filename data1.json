@@ -1,1 +1,6 @@
-data
+{
+  "Found Brainrot": "`Los Crocodillitos`",
+  "Valor": "`$220K/s`",
+  "Mutacion": "`Normal`",
+  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"a379ea2b-103d-45fb-bf5f-c1c7feff1352\", game.Players.LocalPlayer)"
+}
