@@ -1,6 +1,6 @@
 {
-  "Found Brainrot": "`Las Vaquitas Saturnitas`",
-  "Valor": "`$3M/s`",
+  "Found Brainrot": "`Odin Din Din Dun`",
+  "Valor": "`$487.5K/s`",
   "Mutacion": "`Normal`",
-  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"22e66cea-ed5e-4f4f-82b3-3d0144d48713\", game.Players.LocalPlayer)"
+  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"3a2abe2f-60d9-4d23-bc5c-8016299e6c21\", game.Players.LocalPlayer)"
 }
