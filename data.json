@@ -1,6 +1,6 @@
 {
-  "Found Brainrot": "`Las Vaquitas Saturnitas`",
-  "Valor": "`$4.5M/s`",
+  "Found Brainrot": "`La Grande Combinasion`",
+  "Valor": "`$12.5M/s`",
   "Mutacion": "`Normal`",
-  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"ee66eb89-0fab-439f-ba5b-62bb52dd3e4c\", game.Players.LocalPlayer)"
+  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"534ce7a9-1620-4e07-953d-fcd3d1dc0f00\", game.Players.LocalPlayer)"
 }
