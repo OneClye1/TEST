@@ -1,6 +1,6 @@
 {
-  "Found Brainrot": "`Tigroligre Frutonni`",
-  "Valor": "`$360K/s`",
+  "Found Brainrot": "`Trenostruzzo Turbo 3000`",
+  "Valor": "`$225K/s`",
   "Mutacion": "`Normal`",
-  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"e58f2571-d3fc-47a2-ab28-e7e5bb34e6e7\", game.Players.LocalPlayer)"
+  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"6aee4a2e-f213-4633-ac2d-593cbf4c2f55\", game.Players.LocalPlayer)"
 }
