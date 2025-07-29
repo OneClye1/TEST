@@ -1,1 +1,6 @@
-
+{
+  "Found Brainrot": "`Espresso Signora`",
+  "Valor": "`$420K/s`",
+  "Mutacion": "`Normal`",
+  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"72c7dd1a-7076-4b42-a9f8-302512efdf5a\", game.Players.LocalPlayer)"
+}
