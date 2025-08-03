@@ -1,6 +1,6 @@
 {
-  "Found Brainrot": "Trippi Troppi Troppa Trippa",
-  "Valor": "$175K/s",
+  "Found Brainrot": "Tigroligre Frutonni",
+  "Valor": "$360K/s",
   "Mutacion": "Normal",
-  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"7ec40b39-538e-453b-a136-c02b783490c4\", game.Players.LocalPlayer)"
+  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"9eee9893-58f0-4f54-a969-d9aadfbd0b34\", game.Players.LocalPlayer)"
 }
