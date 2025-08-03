@@ -1,6 +1,6 @@
 {
-  "Found Brainrot": "La Vacca Saturno Saturnita",
-  "Valor": "$1.5M/s",
+  "Found Brainrot": "Trenostruzzo Turbo 3000",
+  "Valor": "$150K/s",
   "Mutacion": "Normal",
-  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"1f2abd8a-9e41-4bec-bc54-c6ed7e6e405d\", game.Players.LocalPlayer)"
+  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"beb716ab-6d0b-495a-9db3-28303050cdbc\", game.Players.LocalPlayer)"
 }
