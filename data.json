@@ -1,6 +1,6 @@
 {
-  "Found Brainrot": "Las Vaquitas Saturnitas",
-  "Valor": "$3M/s",
-  "Mutacion": "Normal",
-  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"3ba46293-77c6-4d37-9434-e8bd18910744\", game.Players.LocalPlayer)"
+  "Found Brainrot": "Chimpanzini Spiderini",
+  "Valor": "$3.5M/s",
+  "Mutacion": "Gold",
+  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"c9f1d45e-6cc9-4da8-864e-d69fc7720749\", game.Players.LocalPlayer)"
 }
