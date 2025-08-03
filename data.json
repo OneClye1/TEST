@@ -2,5 +2,5 @@
   "Found Brainrot": "(No encontrado)",
   "Valor": "(No encontrado)",
   "Mutacion": "(No encontrado)",
-  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"c5a6711a-15e4-44fd-a27e-b24db86dc9c4\", game.Players.LocalPlayer)"
+  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"9a1cd3c7-ed0f-4edc-acc9-d644d05d04c1\", game.Players.LocalPlayer)"
 }
