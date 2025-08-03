@@ -1,6 +1,6 @@
 {
-  "Found Brainrot": "`Ballerino Lololo`",
-  "Valor": "`$200K/s`",
-  "Mutacion": "`Normal`",
-  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(96342491571673, \"408b75cf-8f9b-4899-a8c6-4aa3e17aa948\", game.Players.LocalPlayer)"
+  "Found Brainrot": "(No encontrado)",
+  "Valor": "(No encontrado)",
+  "Mutacion": "(No encontrado)",
+  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"37a5d91f-8783-41ec-84cf-50f7f54f6343\", game.Players.LocalPlayer)"
 }
