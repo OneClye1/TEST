@@ -1,6 +1,6 @@
 {
   "Found Brainrot": "Trippi Troppi Troppa Trippa",
-  "Valor": "$875K/s",
+  "Valor": "$1.9M/s",
   "Mutacion": "Normal",
-  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"780d74e0-3171-4374-954f-69ed98f388e2\", game.Players.LocalPlayer)"
+  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"5ad76431-f8a0-428f-9e51-b3218cde4e81\", game.Players.LocalPlayer)"
 }
