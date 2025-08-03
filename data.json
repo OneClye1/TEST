@@ -1,6 +1,6 @@
 {
-  "Found Brainrot": "Trenostruzzo Turbo 3000",
-  "Valor": "$1.5M/s",
+  "Found Brainrot": "Trippi Troppi Troppa Trippa",
+  "Valor": "$175K/s",
   "Mutacion": "Normal",
-  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"179ddf0f-b232-407b-8cab-712cd6742d10\", game.Players.LocalPlayer)"
+  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"ebd795ef-a7cd-4c66-b6cf-cb0a4f45d3d7\", game.Players.LocalPlayer)"
 }
