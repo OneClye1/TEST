@@ -1,6 +1,6 @@
 {
   "Found Brainrot": "La Vacca Saturno Saturnita",
   "Valor": "$1.2M/s",
-  "Mutacion": "BloodRot",
-  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"36e6d4b0-d65c-4987-91b2-37b93389c535\", game.Players.LocalPlayer)"
+  "Mutacion": "Normal",
+  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"24f71544-45f8-43da-8a80-4ae2cb8695c6\", game.Players.LocalPlayer)"
 }
