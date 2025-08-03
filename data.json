@@ -1,6 +1,6 @@
 {
-  "Found Brainrot": "Graipuss Medussi",
-  "Valor": "$1.2M/s",
+  "Found Brainrot": "Espresso Signora",
+  "Valor": "$140K/s",
   "Mutacion": "Normal",
-  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"8a01dba1-ce3c-499c-bfab-987b7c3fee8a\", game.Players.LocalPlayer)"
+  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"b0a4d6cc-aa5c-4b39-99a0-55d0fbc650fa\", game.Players.LocalPlayer)"
 }
