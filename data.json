@@ -1,6 +1,6 @@
 {
-  "Found Brainrot": "Tigroligre Frutonni",
-  "Valor": "$480K/s",
+  "Found Brainrot": "Graipuss Medussi",
+  "Valor": "$1.5M/s",
   "Mutacion": "Normal",
-  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"dcc10dab-ffc4-4de8-bd95-69d71738d833\", game.Players.LocalPlayer)"
+  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"f52b9353-f4c9-4aba-a522-f1d8c6c30fcb\", game.Players.LocalPlayer)"
 }
