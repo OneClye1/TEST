@@ -1,6 +1,6 @@
 {
-  "Found Brainrot": "Los Tungtungtungcitos",
-  "Valor": "$1.2M/s",
-  "Mutacion": "Normal",
-  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"8b8bed47-c2ca-4142-9784-e22a869ab267\", game.Players.LocalPlayer)"
+  "Found Brainrot": "La Vacca Saturno Saturnita",
+  "Valor": "$4M/s",
+  "Mutacion": "Lava",
+  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"a92d1f91-4859-45e0-a214-3987fd1f3cd9\", game.Players.LocalPlayer)"
 }
