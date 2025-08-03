@@ -1,6 +1,6 @@
 {
-  "Found Brainrot": "Orcalero Orcala",
-  "Valor": "$600K/s",
-  "Mutacion": "Normal",
-  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"3c871585-7810-46b9-91b5-313e7f219be5\", game.Players.LocalPlayer)"
+  "Found Brainrot": "Chimpanzini Spiderini",
+  "Valor": "$3.5M/s",
+  "Mutacion": "Gold",
+  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"a6143019-c0a6-45a9-9574-351377882eda\", game.Players.LocalPlayer)"
 }
